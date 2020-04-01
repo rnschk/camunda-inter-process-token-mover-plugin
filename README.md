@@ -4,7 +4,7 @@
 [![Compatible with Camunda BPM 7.12](https://img.shields.io/badge/Camunda%20BPM-7.12+-eb256e.svg)](https://github.com/camunda/camunda-bpm-platform)
 [![](https://img.shields.io/github/downloads/rnschk/camunda-inter-process-token-mover-plugin/total.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 [![](https://img.shields.io/github/issues/rnschk/camunda-inter-process-token-mover-plugin.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
-[![](https://img.shields.io/github/license/rnschk/camunda-inter-process-token-mover-plugin.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
+[![](https://img.shields.io/github/license/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 [![](https://img.shields.io/github/v/release/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 [![](https://img.shields.io/github/forks/rnschk/camunda-inter-process-token-mover-plugin.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 [![](https://img.shields.io/github/stars/rnschk/camunda-inter-process-token-mover-plugin.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
