@@ -9,7 +9,7 @@
 [![](https://img.shields.io/github/forks/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 [![](https://img.shields.io/github/stars/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 
-This plugin (CIPTMP) is a Camunda BPM extension that provides new oppertunites for DevOps. With CIPTMP it is possible to switch executions between different business processes on-the-fly! Nothing more than drag'n'drop token-manipulation is needed (see below). Many users are excited after realising the oppertunites of CIPTMP.
+This plugin (CIPTMP) is a Camunda BPM extension that provides new opportunities for DevOps. With CIPTMP it is possible to switch executions between different business processes on-the-fly! Nothing more than drag'n'drop token-manipulation is needed (see below). Many users are excited after realising the oppertunites of CIPTMP.
 The current verion was successfully tested with Camunda 7.12. Feel free to share your working setup to extend the list of possible combinations (see below). 
 
 ### Features
