@@ -1,7 +1,7 @@
 # Camunda Inter-Process-Token-Mover-Plugin (CIPTMP)
   
 [![](https://img.shields.io/badge/build-passing-success.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
-[![Compatible with Camunda BPM 7.12](https://img.shields.io/badge/Camunda%20BPM-7.12+-eb256e)](https://github.com/camunda/camunda-bpm-platform)
+[![Compatible with Camunda BPM 7.12](https://img.shields.io/badge/Camunda%20BPM-7.12+-eb256e.svg)](https://github.com/camunda/camunda-bpm-platform)
 [![](https://img.shields.io/github/downloads/rnschk/camunda-inter-process-token-mover-plugin/total)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 [![](https://img.shields.io/github/issues/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 [![](https://img.shields.io/github/license/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
