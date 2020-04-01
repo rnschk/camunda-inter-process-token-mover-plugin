@@ -3,9 +3,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <name>Camunda Cross-Process-Token-Mover-Plugin (CCPTMP)</name>
+  <name>Camunda Inter-Process-Token-Mover-Plugin (CIPTMP)</name>
   <groupId>de.rnschk.camunda</groupId>
-  <artifactId>cross-process-token-mover-plugin</artifactId>
+  <artifactId>inter-process-token-mover-plugin</artifactId>
   <version>1.4.2020-PRANKED</version>
 
   <properties>
