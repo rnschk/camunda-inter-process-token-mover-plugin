@@ -1,13 +1,13 @@
 # Camunda Inter-Process-Token-Mover-Plugin (CIPTMP)
   
 [![](https://img.shields.io/badge/build-passing-success.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
-[![Compatible with Camunda BPM 7.12](https://img.shields.io/badge/Camunda%20BPM-7.12+-eb256e.svg)](https://github.com/camunda/camunda-bpm-platform)
-[![](https://img.shields.io/github/downloads/rnschk/camunda-inter-process-token-mover-plugin/total.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
-[![](https://img.shields.io/github/issues/rnschk/camunda-inter-process-token-mover-plugin.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
+[![Compatible with Camunda BPM 7.12](https://img.shields.io/badge/Camunda%20BPM-7.12+-eb256e)](https://github.com/camunda/camunda-bpm-platform)
+[![](https://img.shields.io/github/downloads/rnschk/camunda-inter-process-token-mover-plugin/total)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
+[![](https://img.shields.io/github/issues/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 [![](https://img.shields.io/github/license/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 [![](https://img.shields.io/github/v/release/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
-[![](https://img.shields.io/github/forks/rnschk/camunda-inter-process-token-mover-plugin.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
-[![](https://img.shields.io/github/stars/rnschk/camunda-inter-process-token-mover-plugin.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
+[![](https://img.shields.io/github/forks/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
+[![](https://img.shields.io/github/stars/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 
 This plugin (CIPTMP) is a Camunda BPM extension that provides new oppertunites for DevOps. With CIPTMP it is possible to switch executions between different business processes on-the-fly! Nothing more than drag'n'drop token-manipulation is needed (see below). Many users are excited after realising the oppertunites of CIPTMP.
 The current verion was successfully tested with Camunda 7.12. Feel free to share your working setup to extend the list of possible combinations (see below). 
