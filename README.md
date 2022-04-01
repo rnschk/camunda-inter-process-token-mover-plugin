@@ -1,7 +1,7 @@
 # Camunda Inter-Process-Token-Mover-Plugin (CIPTMP)
   
 [![](https://img.shields.io/badge/build-passing-success.svg)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
-[![Compatible with Camunda BPM 7.12](https://img.shields.io/badge/Camunda%20BPM-7.12+-eb256e.svg)](https://github.com/camunda/camunda-bpm-platform)
+[![Compatible with Camunda BPM 7.16](https://img.shields.io/badge/Camunda%20BPM-7.16+-eb256e.svg)](https://github.com/camunda/camunda-bpm-platform)
 [![](https://img.shields.io/github/downloads/rnschk/camunda-inter-process-token-mover-plugin/total)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 [![](https://img.shields.io/github/issues/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 [![](https://img.shields.io/github/license/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
@@ -10,7 +10,7 @@
 [![](https://img.shields.io/github/stars/rnschk/camunda-inter-process-token-mover-plugin)](https://github.com/rnschk/camunda-inter-process-token-mover-plugin)
 
 This plugin (CIPTMP) is a Camunda BPM extension that provides new opportunities for DevOps. With CIPTMP it is possible to switch executions between different business processes on-the-fly! Nothing more than drag'n'drop token-manipulation is needed (see below). Many users are excited after realising the oppertunites of CIPTMP.
-The current verion was successfully tested with Camunda 7.12. Feel free to share your working setup to extend the list of possible combinations (see below). 
+The current verion was successfully tested with Camunda 7.16. Feel free to share your working setup to extend the list of possible combinations (see below). 
 
 ### Features
 * Swtich execution from any process to another process in **real-time** simply by **drag 'n' drop**!
@@ -51,7 +51,7 @@ The current verion was successfully tested with Camunda 7.12. Feel free to share
 ```
 
 ### Tested Tnvironments:
-* Camunda BPM 7.12+, Community/Enterprise
+* Camunda BPM 7.16+, Community/Enterprise
 * Database: MySQL 5.6+, MariaDB 10.2+, Oracle 12c+, PostgreSql 9.4+, MS SQL 2012+, H2 1.4+, **ISAM** :floppy_disk:
 * Application Server: Tomecat 7.0+, JBoss 6.4+, Wildfly 11.0+, and **z/OS 2.4+** :satellite:
 * Browser: Google Chrome 43+, Mozilla Firefox 37+, Apple Safari and even **Internet Explorer 8+** :bug:
